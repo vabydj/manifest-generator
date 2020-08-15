@@ -1,2 +1,3 @@
-# manifest-generator
-Created with CodeSandbox
+# Manifest Generator
+
+[Demo](https://csb-01qi4.netlify.app/)
